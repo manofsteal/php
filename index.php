@@ -11,7 +11,7 @@
 	<div class="responsive">
 	  <div class="gallery">
 	    <a target="_blank" href="fb/1.html">
-	      <img src="image/1.png" alt="Trolltunga Norway" width="300" height="200">
+	      <img src="https://raw.githubusercontent.com/manofsteal/php/master/image/1.PNG" alt="Trolltunga Norway" width="300" height="200">
 	    </a>
 	    <div class="desc">Add a description of the image here</div>
 	  </div>
